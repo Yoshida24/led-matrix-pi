@@ -1,2 +1,2 @@
 # led-matrix-pi
-8x8 Matrix LED
+Display Animation on 8x8 Matrix LED
